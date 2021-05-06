@@ -144,5 +144,4 @@ class _mainState extends State<MainPage> {
       jPush.openSettingsForNotification()
     }});
   }
-
 }
